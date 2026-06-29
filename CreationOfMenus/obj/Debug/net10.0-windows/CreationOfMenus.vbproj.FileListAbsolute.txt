@@ -1,0 +1,16 @@
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\bin\Debug\net10.0-windows\CreationOfMenus.exe
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\bin\Debug\net10.0-windows\CreationOfMenus.deps.json
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\bin\Debug\net10.0-windows\CreationOfMenus.runtimeconfig.json
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\bin\Debug\net10.0-windows\CreationOfMenus.dll
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\bin\Debug\net10.0-windows\CreationOfMenus.pdb
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.Form1.resources
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.vbproj.GenerateResource.cache
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.AssemblyInfoInputs.cache
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.AssemblyInfo.vb
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.vbproj.CoreCompileInputs.cache
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.dll
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\refint\CreationOfMenus.dll
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.pdb
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\CreationOfMenus.genruntimeconfig.cache
+C:\Users\ahnan\OneDrive\Desktop\studies\codes\.NET\CreationOfMenus\obj\Debug\net10.0-windows\ref\CreationOfMenus.dll
