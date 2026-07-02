@@ -1,0 +1,16 @@
+Z:\3BCAA05 . NET\Program2\Program2\bin\Debug\net8.0-windows\Program2.exe
+Z:\3BCAA05 . NET\Program2\Program2\bin\Debug\net8.0-windows\Program2.deps.json
+Z:\3BCAA05 . NET\Program2\Program2\bin\Debug\net8.0-windows\Program2.runtimeconfig.json
+Z:\3BCAA05 . NET\Program2\Program2\bin\Debug\net8.0-windows\Program2.dll
+Z:\3BCAA05 . NET\Program2\Program2\bin\Debug\net8.0-windows\Program2.pdb
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.Form1.resources
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.vbproj.GenerateResource.cache
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.AssemblyInfoInputs.cache
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.AssemblyInfo.vb
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.vbproj.CoreCompileInputs.cache
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.dll
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\refint\Program2.dll
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.pdb
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\Program2.genruntimeconfig.cache
+Z:\3BCAA05 . NET\Program2\Program2\obj\Debug\net8.0-windows\ref\Program2.dll

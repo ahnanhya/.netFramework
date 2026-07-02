@@ -1,0 +1,16 @@
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.Form1.resources
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.vbproj.GenerateResource.cache
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.AssemblyInfoInputs.cache
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.AssemblyInfo.vb
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.vbproj.CoreCompileInputs.cache
+Z:\3BCAA05 . NET\Program4\bin\Debug\net8.0-windows\Program4.exe
+Z:\3BCAA05 . NET\Program4\bin\Debug\net8.0-windows\Program4.deps.json
+Z:\3BCAA05 . NET\Program4\bin\Debug\net8.0-windows\Program4.runtimeconfig.json
+Z:\3BCAA05 . NET\Program4\bin\Debug\net8.0-windows\Program4.dll
+Z:\3BCAA05 . NET\Program4\bin\Debug\net8.0-windows\Program4.pdb
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.dll
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\refint\Program4.dll
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.pdb
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\Program4.genruntimeconfig.cache
+Z:\3BCAA05 . NET\Program4\obj\Debug\net8.0-windows\ref\Program4.dll
